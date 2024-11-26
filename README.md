@@ -12,21 +12,14 @@ Realizar un análisis detallado del comportamiento de los clientes dentro de un 
 
 # Fases:
     1. Exploración y limpieza
-    1. Visualización
-#1. Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
+    2. Visualización
+    3. Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
+
 
 
 # Funcionalidad:
 Procesar y analizar los datos de clientes y su actividad para obtener información que permita mejorar la experiencia del cliente y optimizar el programa de lealtad, extrayendo información útil que pueda ayudar a la empresa a tomar decisiones informadas.
 
-
-# Instalación:
-
-Pyhton:
-
-1. Descarga: Visita la web oficial de Python y descarga el instalador correspondiente a tu sistema operativo (Windows, macOS, Linux).
-
-2. Ejecución: Sigue las instrucciones para descargarte las extensiones necesarias.
 
 # Librerías de visualización:
 
